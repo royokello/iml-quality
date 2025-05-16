@@ -1,4 +1,4 @@
-# iml-quality
+# IML Quality
 A Python tool to quantify and analyze image quality using advanced metrics.
 
 ## Features
@@ -21,7 +21,7 @@ A Python tool to quantify and analyze image quality using advanced metrics.
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iml-quality.git
+git clone https://github.com/royokello/iml-quality.git
 cd iml-quality
 
 # Install dependencies
